@@ -5,4 +5,4 @@ enableToc: false
 
 xLearnCoding home page.
 
-[[Free Course Benefits of note-taking|Benefits of note-taking]]
+[[courses/note-taking/Free Course Benefits of note-taking|Free Course: Benefits of note-taking]]

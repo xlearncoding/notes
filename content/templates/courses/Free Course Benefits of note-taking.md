@@ -1,4 +1,3 @@
-* [[Free Course Benefits of note-taking|Free Course: Benefits of note-taking]]
-	* [[Taking notes using Obsidian and Git Github]]
-		* [[What is Git and Github?]]
+* [[courses/note-taking/Free Course Benefits of note-taking|Free Course: Benefits of note-taking]]
+	* [[Note-taking with Obsidian]]
 
