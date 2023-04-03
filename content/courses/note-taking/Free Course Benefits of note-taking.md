@@ -4,6 +4,8 @@ title: Free Course: Benefits of note-taking
 
 As you start learning programming, you'll quickly realize that there's a lot of information to absorb. From syntax rules to programming concepts and best practices, there's a lot to keep track of. That's where note-taking comes in. By taking notes, you can improve your retention of information, stay organized, and enhance your understanding of programming concepts.
 
+[[courses/git/Mini Course git|Mini Course: git]]
+
 ### Benefits of note-taking when learning programming
 
 1. Improved retention of information: When you take notes while learning programming, you're actively engaging with the material. This active engagement helps you remember the information better, which can improve your performance when it comes to applying programming concepts in real-world scenarios.
