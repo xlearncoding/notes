@@ -1,5 +1,5 @@
 ---
-title: 👾 xLearnCoding
+title: xLearnCoding
 enableToc: false
 ---
 
