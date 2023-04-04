@@ -46,3 +46,5 @@ sudo apt-get install git
 For ==Windows users==, you can download the Git installer from [the official website](https://git-scm.com/download/win). Once the installer is downloaded, double-click it to start the installation process. Follow the prompts to complete the installation.
 
 Once you've installed Git, you can check that it's working correctly by running the `git --version` command again in your terminal or command prompt. If the version number is displayed, you're ready to start using Git!
+
+Next: [[courses/git/git practise|Basic git practise]]

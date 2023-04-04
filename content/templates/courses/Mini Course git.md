@@ -5,3 +5,4 @@
 	 * [[courses/git/Basic git terminology|Basic git terminology]
  * Install and practise
 	 * [[courses/git/Install git|Install git]]
+	 * [[courses/git/git practise|Basic git practise]]
