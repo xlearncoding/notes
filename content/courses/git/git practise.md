@@ -18,7 +18,7 @@ mkdir git-test
 Run the following command to navigate into the folder you just created:
 
 ```bash
-cd mini-git-course
+cd git-test
 ```
 
 Now run the `ls -lah` command to list and see the files and directories in this folder. Confirm the folder is empty for now.
