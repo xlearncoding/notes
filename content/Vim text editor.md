@@ -2,7 +2,7 @@
 title: Vim text editor
 ---
 
-![100x100](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1920px-Vimlogo.svg.png)
+![100x100](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/240px-Vimlogo.svg.png)
 
 ## What is Vim text editor?
 
