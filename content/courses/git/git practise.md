@@ -44,7 +44,7 @@ Run the following command to create a new text file called `hello.txt` with "Hel
 echo "Hello World" > hello.txt
 ```
 
-* You can also use Vim text editor to create this file and include "Hello World" text in it as I am doing in the below video.
+* You can also use [[Vim text editor]] to create this file and include "Hello World" text in it as I am doing in the below video.
 
 You can check the text in `hello.txt` file with this command:
 
