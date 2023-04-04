@@ -2,5 +2,6 @@
 * Introduction
 	- [[courses/git/What is git?|What is git?]]
 	*  [[courses/git/Why is git important?|Why is git important?]]
-	 * [[courses/git/Basic git terminology|Basic git terminology]]
-
+	 * [[courses/git/Basic git terminology|Basic git terminology]
+ * Install and use git
+	 * [[courses/git/Install git|Install git]]
