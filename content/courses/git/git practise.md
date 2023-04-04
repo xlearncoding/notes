@@ -46,7 +46,7 @@ echo "Hello World" > hello.txt
 
 * You can also use Vim text editor to create this file and include "Hello World" text in it as I am doing in the below video.
 
-You can check the text in `hello.txt` file by this command:
+You can check the text in `hello.txt` file with this command:
 
 ```bash
 cat hello.txt
@@ -78,7 +78,7 @@ Now run the `git status` command again and you will see the filename is in green
 git commit -m "Added hello.txt with Hello World text"
 ```
 
-Here the `-m` argument means the message with your commit. This message will help you remember your change when you check the logs in the future.
+The `-m` argument in Git allows you to add a commit message that serves as a reminder of the changes you made. This commit message is essential for keeping track of your changes in the future when you review the commit logs. It's a good practice to provide a meaningful and descriptive commit message that accurately reflects the changes made in the commit. This will help you and your collaborators easily understand the purpose and content of the commit when looking back at the commit history.
 
 ## Step 6: Show the commit in the log 
 
@@ -110,7 +110,7 @@ Run the following command to show the revert commit in the Git log:
 git log
 ```
 
-You should see the revert commit message and other details in the log.
+You should be able to observe the details of the revert commit, including the commit message and other relevant information, in the Git log. This showcases the powerful tracking capabilities of Git, which is a key aspect covered in this section of the mini course git. The ability to view and understand the changes made to your codebase through the commit log is an essential skill in effective version control, allowing you to effectively manage and track the history of your project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TzUtIy0cg2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
