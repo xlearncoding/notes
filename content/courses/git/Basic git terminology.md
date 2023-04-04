@@ -20,3 +20,6 @@ Although I will provide you with some basic Git terminology here, it can be chal
 > **Remote:** A remote is a reference to a remote repository, such as one hosted on GitHub or GitLab.
 
 > **Fork:** Forking is the process of creating a copy of a remote repository on a different account or organization. This allows you to make changes to the repository independently of the original repository, and to submit pull requests back to the original repository if desired.
+
+
+Next: [[Install git]]
