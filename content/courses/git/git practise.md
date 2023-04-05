@@ -124,3 +124,14 @@ By mastering the basics of Git, you have taken a significant step towards becomi
 Congratulations on your progress so far! You now have a solid foundation in Git and version control. Keep exploring and experimenting with Git, and you'll be well on your way to becoming a proficient Git user. Great job! Keep up the good work, and remember, practice makes perfect.
 
 Happy coding!
+
+---
+
+[[courses/git/Mini Course git|Mini Course: git]]
+* Introduction
+	- [[courses/git/What is git?|What is git?]]
+	*  [[courses/git/Why is git important?|Why is git important?]]
+	 * [[courses/git/Basic git terminology|Basic git terminology]]
+ * Install git and practise
+	 * [[courses/git/Install git|Install git]]
+	 * [[courses/git/git practise|Basic git practise]]

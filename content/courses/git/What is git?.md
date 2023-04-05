@@ -13,3 +13,14 @@ Overall, Git is an essential tool for modern software development and is widely 
 > **Fun fact:** Linus Torvalds named Git after himself, as he has a tendency to name his projects after himself, and the word "get." According to Torvalds, the name Git was chosen because it was short, easy to remember, and distinct from other software tools. In a 2007 mailing list post, he described himself as an "egotistical bastard" who likes to name his projects after himself, just like he did with Linux. Despite its somewhat humorous origin, Git has become a vital tool for software development, with its use now widespread among developers and organizations alike.
 
 Next: [[Why is git important?]]
+
+---
+
+[[courses/git/Mini Course git|Mini Course: git]]
+* Introduction
+	- [[courses/git/What is git?|What is git?]]
+	*  [[courses/git/Why is git important?|Why is git important?]]
+	 * [[courses/git/Basic git terminology|Basic git terminology]]
+ * Install git and practise
+	 * [[courses/git/Install git|Install git]]
+	 * [[courses/git/git practise|Basic git practise]]
