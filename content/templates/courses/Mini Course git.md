@@ -6,3 +6,4 @@
  * Install git and practise
 	 * [[courses/git/Install git|Install git]]
 	 * [[courses/git/git practise|Basic git practise]]
+	 * [[courses/git/Final notes|Final notes]]
